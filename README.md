@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Azamat 👋
 
-<!--
-**Azamature1719/Azamature1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 20-year-old software developer based in Astrakhan 🇷🇺.
 
-Here are some ideas to get you started:
+Currently I'm getting a Bachelor's degree in Computer Science. I'm graduating in 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me on other resources
+- [VK](https://vk.com/08now)
+- [Telegram](https://t.me/08now)
+
+## GitHub stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Azamature1719&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Azamature1719&layout=true)
