@@ -11,6 +11,4 @@
 
 ## GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Azamature1719&show_icons=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=Azamature1719&layout=compact)
