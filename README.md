@@ -1,6 +1,6 @@
 ### Hi there, I'm Azamat 👋
 
-- 20-year-old software developer based in Astrakhan 🇷🇺.
+- 21-year-old software developer based in Astrakhan 🇷🇺.
 - Started programming in 2018.
 - Getting a Bachelor's degree in Computer Science. 
 - Graduating in 2022.
